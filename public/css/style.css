@@ -1,0 +1,53 @@
+div#main {
+    text-align: center;
+}
+
+div#title {
+    text-align: center;
+}
+
+div#title h1 {
+    padding-bottom: 20px;
+}
+
+div#controls {
+    text-align: center;
+}
+
+div#controls button {
+    margin: 5px;
+    width: 100px;
+}
+
+div#add-form {
+    float: right;
+    margin-left: 20px;
+}
+
+div#add-form button {
+    margin: 2px;
+    width: 100px;
+}
+
+div#add-form {
+    position: absolute;
+}
+
+div#add-form input {
+    width: 100px;
+    float: left;
+    margin: 2px;
+}
+
+div#board {
+    margin-top: 2em;
+}
+
+div#board table {
+    margin: 0 auto;
+}
+
+tr.current-count {
+    font-weight: bold;
+    color: green;
+}
